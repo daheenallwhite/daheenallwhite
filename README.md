@@ -10,7 +10,7 @@ Hello, I am Daheen Lee, an iOS developer with over four years of industry experi
 My goal is to contribute to a company whose services not only excite me as a user but also inspire me as a developer. I am passionate about applying my skills to enhance and grow services I deeply value.
 
 ### 🔥 Interests 
-- 📚 Archiving/Documentation : I love writing documentation to help team understand systems or features.
+- 📚 Archiving/Documentation : I love writing documents to help team understand systems or features.
 - 🖼️ Visualization  : I believe visualization such as graphs and tables accelerates understanding while working and learning. I often utilize this method to the posts on my blog.
 - 🏋️ Work Out 
 - 🏰 Disney
