@@ -10,3 +10,5 @@ Also, I am enthusiastic about categorizing concepts of iOS development.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daheenallwhite&show_icons=true&count_private=true)  
 
+
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=daheenallwhite.daheenallwhite)
