@@ -2,9 +2,11 @@
 #### I am an iOS developer
 
 I enjoy archiving everyting such as what I learn and love documentation.
+
 Also, I am enthusiastic about categorizing concepts of iOS development.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daheenallwhite)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daheen-dana-lee-622bb1189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://daheenallwhite.github.io/)  
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/daheen-dana-lee-622bb1189/)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:allwhite.dev@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daheenallwhite&show_icons=true&count_private=true)  
 
