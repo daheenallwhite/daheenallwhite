@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Daheen
 #### I am an iOS developer
-![I am an iOS developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I enjoy archiving everyting such as what I learn and love documentation.
 Also, I am enthusiastic about categorizing concepts of iOS development.
