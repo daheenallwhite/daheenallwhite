@@ -5,7 +5,7 @@
 [![Resume Badge](https://img.shields.io/badge/-Resume(EN)-yellow?style=flat-square&link=https://drive.google.com/file/d/1iswIoyqdAmviOerDklZ8827ja1S9IKfh/view?usp=sharing)](https://drive.google.com/file/d/1iswIoyqdAmviOerDklZ8827ja1S9IKfh/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-allwhite.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:allwhite.dev@gmail.com)
 
-Hello, I am Daheen Lee, an iOS developer with over four years of industry experience. In my current role, I have successfully navigated through all stages of app development, from conception to deployment. I had the honor of presenting at [ifKakakao 2020](https://elseif.kakao.com/2020/session/80), one of South Korea's premier developer conferences. There, I shared insights through adopting RIBs architecture into an iOS app, an initiative that has significantly enhanced our project outcomes. 
+Hello, I am Daheen Lee, an iOS developer with over four years of industry experience. In my current role, I have successfully navigated through all stages of app development, from conception to deployment. I had the honor of presenting at [ifKakao 2020](https://elseif.kakao.com/2020/session/80), one of South Korea's premier developer conferences. There, I shared insights through adopting RIBs architecture into an iOS app, an initiative that has significantly enhanced our project outcomes. 
 
 My goal is to contribute to a company whose services not only excite me as a user but also inspire me as a developer. I am passionate about applying my skills to enhance and grow services I deeply value.
 
