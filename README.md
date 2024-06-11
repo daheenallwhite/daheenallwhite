@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daheen.Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daheen-lee-622bb1189/)](https://www.linkedin.com/in/daheen-lee-622bb1189/)
 [![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&link=https://daheenallwhite.github.io/)](https://daheenallwhite.github.io/)
-[![Resume Badge](https://img.shields.io/badge/-Resume(EN)-yellow?style=flat-square&link=https://drive.google.com/file/d/1iswIoyqdAmviOerDklZ8827ja1S9IKfh/view?usp=sharing)](https://drive.google.com/file/d/1iswIoyqdAmviOerDklZ8827ja1S9IKfh/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume(EN)-yellow?style=flat-square&link=https://drive.google.com/file/d/1qEml2X4OKEYZRlRNyFDVDBuQcxaABeva/view?usp=sharing)](https://drive.google.com/file/d/1qEml2X4OKEYZRlRNyFDVDBuQcxaABeva/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-allwhite.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:allwhite.dev@gmail.com)
 
 Hello, I am Daheen Lee, an iOS developer with over four years of industry experience. In my current role, I have successfully navigated through all stages of app development, from conception to deployment. I had the honor of presenting at [ifKakao 2020](https://elseif.kakao.com/2020/session/80), one of South Korea's premier developer conferences. There, I shared insights through adopting RIBs architecture into an iOS app, an initiative that has significantly enhanced our project outcomes. 
