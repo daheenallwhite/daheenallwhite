@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I+am+Daheen)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daheen.Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daheen-dana-lee-622bb1189/)](https://www.linkedin.com/in/daheen-dana-lee-622bb1189/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daheen.Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daheen-lee-622bb1189/)](https://www.linkedin.com/in/daheen-dana-lee-622bb1189/)
 [![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&link=https://daheenallwhite.github.io/)](https://daheenallwhite.github.io/)
 [![Resume Badge](https://img.shields.io/badge/-Resume(EN)-yellow?style=flat-square&link=https://drive.google.com/file/d/1iswIoyqdAmviOerDklZ8827ja1S9IKfh/view?usp=sharing)](https://drive.google.com/file/d/1iswIoyqdAmviOerDklZ8827ja1S9IKfh/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-allwhite.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:allwhite.dev@gmail.com)
