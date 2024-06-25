@@ -4,6 +4,7 @@
 [![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&link=https://daheenallwhite.github.io/)](https://daheenallwhite.github.io/)
 [![Resume Badge](https://img.shields.io/badge/-Resume(EN)-yellow?style=flat-square&link=https://drive.google.com/file/d/1wzP0CDXaIQ3__CTP9g-K1RupntR_bae5/view?usp=sharing)](https://drive.google.com/file/d/1wzP0CDXaIQ3__CTP9g-K1RupntR_bae5/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-allwhite.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:allwhite.dev@gmail.com)
+(Click on the badges above to visit my LinkedIn profile, blog, and resume.)
 
 Hello, I am Daheen Lee, an iOS developer with over four years of industry experience. In my current role, I have successfully navigated through all stages of app development, from conception to deployment. I had the honor of presenting at [ifKakao 2020](https://elseif.kakao.com/2020/session/80), one of South Korea's premier developer conferences. There, I shared insights through adopting RIBs architecture into an iOS app, an initiative that has significantly enhanced our project outcomes. 
 
