@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daheen.Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daheen-lee-dev)](https://www.linkedin.com/in/daheen-lee-dev)
 [![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&link=https://daheenallwhite.github.io/)](https://daheenallwhite.github.io/)
-[![Resume Badge](https://img.shields.io/badge/-Resume(EN)-yellow?style=flat-square&link=https://drive.google.com/file/d/1wzP0CDXaIQ3__CTP9g-K1RupntR_bae5/view?usp=sharing)](https://drive.google.com/file/d/1wzP0CDXaIQ3__CTP9g-K1RupntR_bae5/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume(EN)-yellow?style=flat-square&link=https://drive.google.com/file/d/1Or7bAOASOr-0Y07_wJtb94cpxyeMhMQg/view?usp=sharing)](https://drive.google.com/file/d/1Or7bAOASOr-0Y07_wJtb94cpxyeMhMQg/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-allwhite.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:allwhite.dev@gmail.com)
 
 (Click on the badges above to visit my LinkedIn profile, blog, and resume.)
